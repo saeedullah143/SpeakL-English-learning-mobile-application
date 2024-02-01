@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120109693463",
+    "project_id": "speakle-75d2c",
+    "storage_bucket": "speakle-75d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120109693463:android:62bb8447c2da8500213a52",
+        "android_client_info": {
+          "package_name": "com.example.speakle_pyf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO2dutiVVbDkSHZ4PmELVVjUYeNND7lqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
